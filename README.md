@@ -1,2 +1,2 @@
-# AFCON-Morocco-2025-2026-Analysis-And-visualization
-this project
+# AFCON-Morocco-2025-2026-Statistics-Analysis-And-visualization⚽🇲🇦
+The goal of this project is to analyze the statistics of the 2025 Africa Cup of Nations in Morocco by cleaning the data and transforming it into clear and easy-to-understand visualizations. The project focuses on processing team and player statistics, such as Goals, Shots, Possession, and other key metrics, to make analysis and insights more accessible. 
